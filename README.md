@@ -1,4 +1,4 @@
-# BUAA-python-data-structure
+# BUAA python data structure
 
 此仓库包含：
 
